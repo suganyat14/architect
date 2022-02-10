@@ -1,5 +1,14 @@
-title: Architect theme
-description: Architect is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
+title: <p align="center"> Suganya Thirumurthy </p>
+
+description:
+  <p align="center">
+  <a href="pdf/resume.pdf">Resume</a> |
+  <a href="https://www.linkedin.com/in/suganyathirumurthy/">LinkedIn</a> |
+  <a href="https://github.com/suganyat14">GitHub</a>
+  
+  <br>   
+  I'm a Technical Architect for the system software stack.
+  <br>
+  </p>
+
 theme: jekyll-theme-architect
